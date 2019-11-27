@@ -1,6 +1,6 @@
 # Beach Project
 
-This project was designed to pass the practical examination of Operation System so it had guidelines and features to be implemented obligatorily. These are described in [Spiaggia](./Spiaggia.pdf)
+This project was designed to pass the practical examination of Operation System so it had guidelines and features to be implemented obligatorily. These are described in [Spiaggia](./P.1 Spiaggia.pdf)
 
 The aim of this project is to create a client server system for managing the occupations of beach umbrellas, able to provide information on the availability of umbrellas, and commit or cancel them.
 The architecture is client-server type and the student is asked to create the server and the client. The main objective of the project is to familiarize the student with sockets and concurrent programming, as well as with client-server architectures.
